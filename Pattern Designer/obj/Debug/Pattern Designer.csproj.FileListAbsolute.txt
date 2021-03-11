@@ -1,0 +1,13 @@
+F:\Patterns\Pattern Designer\Pattern Designer\bin\Debug\Pattern Designer.exe.config
+F:\Patterns\Pattern Designer\Pattern Designer\bin\Debug\Pattern Designer.exe
+F:\Patterns\Pattern Designer\Pattern Designer\bin\Debug\Pattern Designer.pdb
+F:\Patterns\Pattern Designer\Pattern Designer\obj\Debug\Pattern Designer.csprojAssemblyReference.cache
+F:\Patterns\Pattern Designer\Pattern Designer\obj\Debug\Pattern_Designer.Pattern.resources
+F:\Patterns\Pattern Designer\Pattern Designer\obj\Debug\Pattern_Designer.Properties.Resources.resources
+F:\Patterns\Pattern Designer\Pattern Designer\obj\Debug\Pattern Designer.csproj.GenerateResource.cache
+F:\Patterns\Pattern Designer\Pattern Designer\obj\Debug\Pattern Designer.csproj.CoreCompileInputs.cache
+F:\Patterns\Pattern Designer\Pattern Designer\obj\Debug\Pattern Designer.exe
+F:\Patterns\Pattern Designer\Pattern Designer\obj\Debug\Pattern Designer.pdb
+F:\Patterns\Pattern Designer\Pattern Designer\obj\Debug\Pattern_Designer.PatternDesigner.resources
+F:\Patterns\Pattern Designer\Pattern Designer\obj\Debug\Pattern_Designer.loopContainer.resources
+F:\Patterns\Pattern Designer\Pattern Designer\obj\Debug\Pattern_Designer.Settings.resources
